@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2392d6b4-175e-4d4a-9260-8bb2f0d68bf6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson2taskA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2taskA2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/LearnPython$task1alternative.coverage" NAME="task1alternative Coverage Results" MODIFIED="1533554380183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnPython$altern2.coverage" NAME="altern2 Coverage Results" MODIFIED="1533556000684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnPython$Tutorial3Intro.coverage" NAME="Tutorial3Intro Coverage Results" MODIFIED="1533557659816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnPython$lesson2taskA2.coverage" NAME="lesson2taskA2 Coverage Results" MODIFIED="1533797539656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnPython$lesson2taskA.coverage" NAME="lesson2taskA Coverage Results" MODIFIED="1533795829141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -29,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson2taskA.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson2taskA.py">
+      <file leaf-file-name="lesson2taskA1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson2taskA1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson2taskA2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson2taskA2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -65,6 +75,8 @@
         <option value="$PROJECT_DIR$/Tutorial3Intro.py" />
         <option value="$PROJECT_DIR$/lesson1taskC.py" />
         <option value="$PROJECT_DIR$/lesson2taskA.py" />
+        <option value="$PROJECT_DIR$/lesson2taskA1.py" />
+        <option value="$PROJECT_DIR$/lesson2taskA2.py" />
       </list>
     </option>
   </component>
@@ -122,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lesson2taskA">
+  <component name="RunManager" selected="Python.lesson2taskA2">
     <configuration name="Tutorial3Intro" type="PythonConfigurationType" factoryName="Python">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +186,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2taskA.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rekhert\Desktop\LearnPython\lesson2taskA1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lesson2taskA2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2taskA2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,9 +235,11 @@
       <item itemvalue="Python.task1alternative" />
       <item itemvalue="Python.altern2" />
       <item itemvalue="Python.lesson2taskA" />
+      <item itemvalue="Python.lesson2taskA2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson2taskA2" />
         <item itemvalue="Python.lesson2taskA" />
         <item itemvalue="Python.altern2" />
         <item itemvalue="Python.task1alternative" />
@@ -259,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533793480392</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson 2 tasks A1">
+      <created>1533795930327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1533795930327</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 2 tasks A1">
+      <created>1533796288039</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533796288039</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -267,11 +314,11 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003903" side_tool="true" visible="true" weight="0.3281787" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2997658" side_tool="true" visible="true" weight="0.49656358" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49882904" weight="0.45532647" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960968" visible="true" weight="0.3281787" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4980484" weight="0.45532647" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7002342" visible="true" weight="0.49656358" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13739266" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -301,7 +348,8 @@
     <MESSAGE value="lesson 1 tasks A" />
     <MESSAGE value="lesson 1 tasks B" />
     <MESSAGE value="lesson 1 tasks C" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 1 tasks C" />
+    <MESSAGE value="lesson 2 tasks A1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2 tasks A1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tutorial3Intro.py">
@@ -353,9 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1taskA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -377,6 +422,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2taskA1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tutorial3Intro.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -384,10 +436,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2taskA.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2taskA2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        <state relative-caret-position="143">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
