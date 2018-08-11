@@ -87,8 +87,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>r = int(input('\n Введите радиус окружности: '))</find>
-      <find>print (amount_money*rates.get(currency_in).get(currency_out))</find>
+      <find />
+      <find />
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -275,7 +275,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3task1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rekhert\Desktop\LearnPython\lesson3taskA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
