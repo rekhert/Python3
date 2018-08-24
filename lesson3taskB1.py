@@ -1,4 +1,65 @@
 
+#C2
+# x = ['slovo1', 'slovo2']
+
+# s = 'gde est slovo1'
+#
+# r = s.split()
+#
+# for word in r:
+#     for mat in x:
+#         if mat == word:
+#              r[r.index(word)] = '***'
+# s = " ".join(r)
+# print(s)
+
+#C2 alt
+
+# x = {'slovo1' : 'drugoe slovo2']
+
+# s = 'gde est slovo1'
+#
+# r = s.split()
+#
+# for word in r:
+#     for mat in x:
+#         if mat == word:
+#              r[r.index(word)] = x[word]
+# s = " ".join(r)
+# print(s)
+
+# перевод по такому то курсу B1
+# try accept -- конструкция для отловкли ошибок API B1 with parcing
+
+
+
+#
+# task B2
+
+# "KZT" : {"01-01-2018":356.9, "01-01-2018":356.9, "01-01-2018":356.9}
+#import panddas as pd
+#
+#
+# ds = {
+# "USD": {
+#   "KZT": [67.7061, 66.6899, 65.549, 65.549]
+#   "RUB": [67.7061, 66.6899, 65.549, 65.549]
+#   "USD": [67.7061, 66.6899, 65.549, 65.549]}
+# "DATE": ["01-01-2018", "02-01-2018", "03-01-2018", "03-01-2018"] }
+#
+# def getRateLogByCurrency (C_from, C_to, days, current_date):
+#     if current_date in ds.['DATE']:
+#         dateIndex = ds['DATE'].index(current_date)
+#         if c_from in ds and c_to in ds[c_from]:
+#             result = ds.[c_from][dateIndex:(-1)*(days)]
+#             return result
+#
+#
+# print (getRateLogByCurrency("USD", "KZT", 2, "03-01-2018"))
+
+
+
+
 
 #def getCurrencyRate(158.00, {"USD":"KZT"})
 
