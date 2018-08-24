@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2392d6b4-175e-4d4a-9260-8bb2f0d68bf6" name="Default" comment="lesson4 task A">
-      <change afterPath="$PROJECT_DIR$/lesson4raskB.py" afterDir="false" />
+    <list default="true" id="2392d6b4-175e-4d4a-9260-8bb2f0d68bf6" name="Default" comment="lesson 4 task B">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4taskA.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4taskA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4taskB.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4taskB.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,15 +34,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="128" />
+          <entry key="dummy" value="1" />
           <entry key="js" value="6" />
-          <entry key="py" value="832" />
-          <entry key="txt" value="4" />
+          <entry key="py" value="833" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="960" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="961" />
           <entry key="Scratch" value="6" />
         </counts>
       </usages-collector>
@@ -63,22 +63,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson4taskA.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson4raskB.py">
+        <entry file="file://$PROJECT_DIR$/lesson4taskB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state relative-caret-position="289">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
-                <marker date="1535098891686" expanded="true" signature="209:214" ph="..." />
+                <marker date="1535099177375" expanded="true" signature="209:214" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,6 +115,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" />
         <option value="$PROJECT_DIR$/lesson4taskA.py" />
         <option value="$PROJECT_DIR$/lesson4raskB.py" />
+        <option value="$PROJECT_DIR$/lesson4taskB.py" />
       </list>
     </option>
   </component>
@@ -282,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4raskB.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rekhert\PycharmProjects\LearnPython\lesson4taskB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -453,7 +445,21 @@
       <option name="project" value="LOCAL" />
       <updated>1535097388762</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lesson 4 task B">
+      <created>1535099060542</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1535099060542</updated>
+    </task>
+    <task id="LOCAL-00018" summary="lesson 4 task B">
+      <created>1535099123486</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1535099123486</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -467,13 +473,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6332623" visible="true" weight="0.569395" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6332623" weight="0.569395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995749" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,22 +498,22 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29679596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7002342" weight="0.49656358" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6332623" visible="true" weight="0.569395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995749" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291592" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49608764" weight="0.47368422" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32849365" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5039124" side_tool="true" weight="0.46167248" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49578413" weight="0.72271913" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.29238755" side_tool="true" weight="0.5418895" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3291592" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.70761245" weight="0.5418895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -535,7 +542,8 @@
     <MESSAGE value="lesson 3 task B1 with parcing" />
     <MESSAGE value="lesson 3 task B2" />
     <MESSAGE value="lesson 4 task A" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 task A" />
+    <MESSAGE value="lesson 4 task B" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 task B" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/task1alternative.py">
@@ -643,12 +651,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4raskB.py">
+    <entry file="file://$PROJECT_DIR$/lesson4taskB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        <state relative-caret-position="289">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
-            <marker date="1535098891686" expanded="true" signature="209:214" ph="..." />
+            <marker date="1535099177375" expanded="true" signature="209:214" ph="..." />
           </folding>
         </state>
       </provider>
