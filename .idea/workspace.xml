@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2392d6b4-175e-4d4a-9260-8bb2f0d68bf6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson4taskA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LearnPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2392d6b4-175e-4d4a-9260-8bb2f0d68bf6" name="Default" comment="lesson4 task A">
+      <change afterPath="$PROJECT_DIR$/lesson4raskB.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3taskB1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3taskB1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3taskB2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3taskB2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4taskA.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4taskA.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,24 +36,26 @@
         <counts>
           <entry key="Python Console" value="128" />
           <entry key="js" value="6" />
-          <entry key="py" value="544" />
+          <entry key="py" value="832" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="672" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="960" />
           <entry key="Scratch" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -65,49 +64,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tutorial3Intro.py">
+        <entry file="file://$PROJECT_DIR$/lesson4taskA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3taskB1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3taskB2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3taskB1withparcing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson4taskA.py">
+        <entry file="file://$PROJECT_DIR$/lesson4raskB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="136">
+              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <marker date="1535098891686" expanded="true" signature="209:214" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,6 +123,7 @@
         <option value="$PROJECT_DIR$/lesson3taskB1.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" />
         <option value="$PROJECT_DIR$/lesson4taskA.py" />
+        <option value="$PROJECT_DIR$/lesson4raskB.py" />
       </list>
     </option>
   </component>
@@ -208,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lesson4taskA">
+  <component name="RunManager" selected="Python.lesson4raskB">
     <configuration name="Tutorial3Intro" type="PythonConfigurationType" factoryName="Python">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,28 +218,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\rekhert\Desktop\LearnPython\lesson3taskB1withparcing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson3task1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LearnPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\rekhert\Desktop\LearnPython\lesson3taskB1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,6 +270,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson4raskB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4raskB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lesson4taskA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,19 +314,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Tutorial3Intro" />
-      <item itemvalue="Python.lesson3task1" />
       <item itemvalue="Python.getQuery" />
       <item itemvalue="Python.lesson3taskB" />
       <item itemvalue="Python.lesson3taskB2" />
       <item itemvalue="Python.lesson4taskA" />
+      <item itemvalue="Python.lesson4raskB" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson4raskB" />
         <item itemvalue="Python.lesson4taskA" />
         <item itemvalue="Python.lesson3taskB2" />
         <item itemvalue="Python.lesson3taskB" />
         <item itemvalue="Python.getQuery" />
-        <item itemvalue="Python.lesson3task1" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534057746466</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lesson 4 task A">
+      <created>1535097388762</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1535097388762</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -488,7 +467,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -556,7 +534,8 @@
     <MESSAGE value="lesson 3 task B1" />
     <MESSAGE value="lesson 3 task B1 with parcing" />
     <MESSAGE value="lesson 3 task B2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 task B2" />
+    <MESSAGE value="lesson 4 task A" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 task A" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/task1alternative.py">
@@ -619,27 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tutorial3Intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3taskB1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3taskB2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -657,10 +615,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3taskB2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3taskB1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial3Intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson4taskA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4raskB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <marker date="1535098891686" expanded="true" signature="209:214" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
