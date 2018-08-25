@@ -13,16 +13,20 @@ a = int(input('введите число'))
 list = []
 count = 0
 even_count = 0
-mina = -10000
-maxa = +10000
+mina = +10000
+maxa = -10000
 while a != 0:
     count += 1
     list.append(a)
     if a % 2 == 0:
         even_count += 1
+    if a < mina:
+        mina = a
+    if a > maxa:
+        maxa = a
     a = int(input('введите число'))
 else:
     print("введен ноль, цикл остановлен", "\n кол-во введенных чисел до нуля:", count, "\n кол-во четных:", even_count,
-    "\n минимум", min(list),"\n максимум", max(list))
+    "\n минимум", min(list), mina, "\n максимум", max(list), maxa)
 
 
