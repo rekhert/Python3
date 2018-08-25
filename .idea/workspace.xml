@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2392d6b4-175e-4d4a-9260-8bb2f0d68bf6" name="Default" comment="AZ task 1">
-      <change afterPath="$PROJECT_DIR$/AZtask1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/az1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/az1.py" beforeDir="false" afterPath="$PROJECT_DIR$/az1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +38,14 @@
           <entry key="Python Console" value="128" />
           <entry key="dummy" value="3" />
           <entry key="js" value="6" />
-          <entry key="py" value="1873" />
+          <entry key="py" value="2181" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="2001" />
+          <entry key="Python" value="2309" />
           <entry key="Scratch" value="6" />
         </counts>
       </usages-collector>
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/az1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="221">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -480,7 +479,28 @@
       <option name="project" value="LOCAL" />
       <updated>1535200744407</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="AZ task 1">
+      <created>1535202283279</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1535202283279</updated>
+    </task>
+    <task id="LOCAL-00023" summary="AZ task 1">
+      <created>1535202354946</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1535202354946</updated>
+    </task>
+    <task id="LOCAL-00024" summary="AZ task 1">
+      <created>1535202823610</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1535202823610</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
@@ -494,6 +514,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23052464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -566,6 +587,17 @@
     <MESSAGE value="lesson 4 task С" />
     <MESSAGE value="AZ task 1" />
     <option name="LAST_COMMIT_MESSAGE" value="AZ task 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/az1.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/task1alternative.py">
@@ -696,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/az1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="221">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
