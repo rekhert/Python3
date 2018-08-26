@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2392d6b4-175e-4d4a-9260-8bb2f0d68bf6" name="Default" comment="AZ task 1">
+      <change afterPath="$PROJECT_DIR$/lesson5taskA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/az1.py" beforeDir="false" afterPath="$PROJECT_DIR$/az1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +27,11 @@
     <session id="235110142">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -38,26 +39,26 @@
           <entry key="Python Console" value="128" />
           <entry key="dummy" value="3" />
           <entry key="js" value="6" />
-          <entry key="py" value="2181" />
-          <entry key="txt" value="23" />
+          <entry key="py" value="2814" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="2309" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="2942" />
           <entry key="Scratch" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="py" value="6" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="9" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -65,11 +66,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/az1.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/az2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state>
+              <caret selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/az3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson5taskA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -118,6 +137,9 @@
         <option value="$PROJECT_DIR$/lesson4taskC.py" />
         <option value="$PROJECT_DIR$/task1.py" />
         <option value="$PROJECT_DIR$/az1.py" />
+        <option value="$PROJECT_DIR$/az2.py" />
+        <option value="$PROJECT_DIR$/az3.py" />
+        <option value="$PROJECT_DIR$/lesson5taskA.py" />
       </list>
     </option>
   </component>
@@ -142,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +175,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.az1">
+  <component name="RunManager" selected="Python.lesson5taskA">
     <configuration name="Tutorial3Intro" type="PythonConfigurationType" factoryName="Python">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson4raskB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="az2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\rekhert\PycharmProjects\LearnPython\lesson4taskB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/az2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson4taskA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="az3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4taskA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/az3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson4taskC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lesson5taskA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4taskC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5taskA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,19 +327,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Tutorial3Intro" />
-      <item itemvalue="Python.lesson4taskA" />
-      <item itemvalue="Python.lesson4raskB" />
-      <item itemvalue="Python.lesson4taskC" />
       <item itemvalue="Python.task1" />
       <item itemvalue="Python.az1" />
+      <item itemvalue="Python.az2" />
+      <item itemvalue="Python.az3" />
+      <item itemvalue="Python.lesson5taskA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson5taskA" />
+        <item itemvalue="Python.az3" />
+        <item itemvalue="Python.az2" />
         <item itemvalue="Python.az1" />
         <item itemvalue="Python.task1" />
-        <item itemvalue="Python.lesson4taskC" />
-        <item itemvalue="Python.lesson4raskB" />
-        <item itemvalue="Python.lesson4taskA" />
       </list>
     </recent_temporary>
   </component>
@@ -500,7 +522,28 @@
       <option name="project" value="LOCAL" />
       <updated>1535202823610</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="AZ task 1">
+      <created>1535203977237</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1535203977237</updated>
+    </task>
+    <task id="LOCAL-00026" summary="AZ task 2">
+      <created>1535216235677</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1535216235677</updated>
+    </task>
+    <task id="LOCAL-00027" summary="AZ task 3">
+      <created>1535218641348</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1535218641348</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -516,7 +559,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23052464" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30683625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -586,7 +629,9 @@
     <MESSAGE value="lesson 4 task B" />
     <MESSAGE value="lesson 4 task С" />
     <MESSAGE value="AZ task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="AZ task 1" />
+    <MESSAGE value="AZ task 2" />
+    <MESSAGE value="AZ task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="AZ task 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -713,9 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1535102754540" expanded="true" signature="162:167" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,8 +770,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/az1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="-51">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/az2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/az3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5taskA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
