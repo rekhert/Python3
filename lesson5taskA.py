@@ -11,7 +11,8 @@ func("this is", "a    funCtion\'s argUMents", "     simple Example" callback = l
 
 '''
 
-import re
+
+
 
 
 def func(*ar):
