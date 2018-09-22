@@ -15,11 +15,11 @@ n = int(input())
 a = list(map(int, input().split()))
 
 # element
-for i in a:
-    if i % 2 == 0:
-        print(i)
+# for i in a:
+#     if i % 2 == 0:
+#         print(i)
 
 #index
-for i in range(a):
-    if a[i] % 2:
-        print()
+for i in range(n):
+    if a[i] % 2 == 0:
+        print(a[i])
